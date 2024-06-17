@@ -4,7 +4,7 @@
 
 [Presentation](write-up_and_presentation/Final_Presentation.pdf)
 
-[Written Report](write-up_and_presentation)
+[Written Report](write-up_and_presentation/EV%20Vehicles%20Registered%20in%20Washington%20State.pdf)
 
 ### Overview
 
